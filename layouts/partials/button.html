@@ -4,7 +4,6 @@
 {{ end }}
 
 {{ $defaultClass := "px-4 py-2 mx-2 rounded-sm text-center"}}
-{{ $attrs := merge .attrs (dict "class" (printf "%s %s" $defaultClass .attrs.class)) }}
 
 {{ $btnAttrs := "" }}
 {{ range $attrName, $attrValue := $attrs }}
