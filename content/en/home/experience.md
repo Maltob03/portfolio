@@ -14,7 +14,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
 
 
 [[period]]
-  title = "When-it-ends.tk"
+  title = "[When-it-ends.tk](https://when-it-ends.tk)"
   subtitle = ""
   location = ""
   date_start = ""
@@ -31,7 +31,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   description = "Covid-APP nasce dalla voglia di imparare a creare app multipiattaforma con il framework flutter, un framework made-by-Gogle che permette di creare delle app tramite i widget. Questa app nello specifico è un fork di una repository con i dati italiani [Repository Github](https://github.com/Maltob03/covid-app.git)"
 
 [[period]]
-  title = "Maltob.tk"
+  title = "[Maltob.tk](https://maltob.tk)"
   subtitle = ""
   location = ""
   date_start = ""
